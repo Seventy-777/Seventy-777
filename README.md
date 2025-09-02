@@ -1,6 +1,6 @@
 ## Hola mi nombre es Jairo Mayorga Torres 👋
 ## Entusiasta de la Ciberseguridad 
-![https://github.com/mouredev](./mouredev_github_profile.png)
+![Tux, the Linux mascot](/assets/images/tux.png)
 <!--
 **Seventy-777/Seventy-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
